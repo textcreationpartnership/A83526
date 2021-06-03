@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the instructions agreed upon by the Lords and Commons assembled in Parliament, and sent to his Excellency the Earl of Essex, lord general of the army, concerning the advancing of his forces towards his Majesty, &amp;c. Also the last declaration and votes of the Lords and Commons assembled in Parliament, concerning the late treaty of peace in York-shire. Wherin they renounce the sayd agreement as being very prejudiciall and dangerous unto the whole kiugdome [sic], that any one county should stand as newters, and withdrew themselves from the assistance of the rest. Together with the instructions, sent to Mr. Edward Hotham, and Sir Edward Rhodes, with power to them to publish it, and withall to pardon all those that shall submit within ten dayes. Die Martis, Octob. 4. 1642. Ordered by the Lords and Commons in Parliament, that this declaration and votes by forthwith printed and published. Iohn Brown, Cler. Parli.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83526</idno><idno type="EEBO-CITATION">99860498</idno>
+  <idno type="VID">112619</idno>
+  <idno type="EEBO-PROQUEST">2240884328</idno>
+  
+            <idno type="STC">Wing E2381</idno>
+            <idno type="STC">Thomason E121_16</idno>
+            <idno type="STC">ESTC R18915</idno>
+            <idno type="PROQUEST">99860498</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860498e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112619)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the instructions agreed upon by the Lords and Commons assembled in Parliament, and sent to his Excellency the Earl of Essex, lord general of the army, concerning the advancing of his forces towards his Majesty, &amp;c. Also the last declaration and votes of the Lords and Commons assembled in Parliament, concerning the late treaty of peace in York-shire. Wherin they renounce the sayd agreement as being very prejudiciall and dangerous unto the whole kiugdome [sic], that any one county should stand as newters, and withdrew themselves from the assistance of the rest. Together with the instructions, sent to Mr. Edward Hotham, and Sir Edward Rhodes, with power to them to publish it, and withall to pardon all those that shall submit within ten dayes. Die Martis, Octob. 4. 1642. Ordered by the Lords and Commons in Parliament, that this declaration and votes by forthwith printed and published. Iohn Brown, Cler. Parli.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Coles,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642. Octob. 6.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published with some omissions as "The declaration and votes of the Lords and Commons assembled in Parliament concerning the late treaty of peace in York-shire..".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Peace treaties --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112619:1"/>
+            <pb facs="tcp:112619:1"/>
+            <p>A true Copy of the Instru<g ref="char:EOLhyphen"/>ctions agreed upon by the Lords and Commons assembled in Parliament, and sent to his Excellency the Earl of Essex, Lord General of the Army, concerning the advancing of his Forces to<g ref="char:EOLhyphen"/>wards his Majesty, &amp;c.</p>
+            <p>Also the last Declaration and Votes Of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, concerning the late Treaty of Peace in Yorke-shire.</p>
+            <p>Wherin they renounce the sayd agreement as being very prejudiciall and dangerous unto the whole Kingdome, that any one County should stand as Newters, and withdrew them<g ref="char:EOLhyphen"/>selves from the assistance of the rest.</p>
+            <p>Together with the instructions, sent to Mr. Edward <hi>Hotham, and</hi> Sir <hi>Edward Rhodes,</hi> with power to them to pub<g ref="char:EOLhyphen"/>lish it, and withall to pardon all those that shall submit within ten dayes.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, Octob. 4. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdred by the Lords and Commons in Parliament, that this Declaration and Votes be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Iohn Brown, Cler. Parli.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for Fr. Coles. 1642. Octob. 6.</p>
+            <pb facs="tcp:112619:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_instructions">
+            <pb n="1" facs="tcp:112619:2"/>
+            <head>A true Coppy of the Instructi<g ref="char:EOLhyphen"/>ons agreed upon by the Lords and Commons assembled in Parliament, and sent to his Excellency the Earle of <hi>Essex,</hi> &amp;c.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">F</seg>IRST you shall carefully restraine all Impieties, Prophanenesse, and Disorders, Ryot, Insolence, and plundering in your Souldiers, as well by strict and severe punishment of such offences as by all other meanes which you in your wisedomes shall thinke fit.</item>
+               <item>SEcondly, your Lordship is to march with such forces as you think fit towards the Army, raised in his Majesties Name against the Parliament and Kingdome, and with them, or any part of them, to fight at such time and place as you shall judge to conduce to the peace and safety of the Kingdome; And you shall use your utmost endevours by Battaile or otherwise to rescue his Majesties person, and the persons of the Prince, and Duke of <hi>Yorke</hi> out of the hands of those desperate persons who are now about them.</item>
+               <item>THirdly, you shall take an opportunity in some safe and Honourable way to cause the Petition of both houses
+<pb n="6" facs="tcp:112619:3"/> of Parliament herewith sent unto you, to be presented unto his Majestie, and if his Majesty shall please thereupon to with- draw himselfe from the forces now about him, and to resort to the Parliament, you shall cause all these for<g ref="char:EOLhyphen"/>ces to disband, and shall secure and defend his Majesty with a sufficient strength in his returne.</item>
+               <item>FOurthly, You shall publish and declare, that if any, who have been seduced by the false aspersions cast upon the proceedings of the Parliament, as to assist the King in the acting of those dangerous Counsels, shall willingly within ten dayes after such publication in the Army, returne to their duty, not doing any hostile act within the time limited and joyne themselves with the Parliament, in defence of Re<g ref="char:EOLhyphen"/>ligion, his Majesties person, the Liberties and Lawes of the Kingdome, and priledges of parliament, with their persons and Estates, as the Members of both Houses, and the rest of the Kingdome have done: That the Lords and Commons will be ready upon their submission to receive such persons in such manner as they shall have cause to acknowledge they have bin used with clemency and favour: Provided, that this shall not extend to admit any man into eyther House of Parliament who stands suspended, without giving satisfaction to the House whereof hee shalbe a Member: and except all persons who stand impeached, or particu<g ref="char:EOLhyphen"/>larly voted in eyther house of Parliament for any delinquen<g ref="char:EOLhyphen"/>cy whatsoever; Excepting likewise such Adherents of those who stand impeached in Parliament of Treason, as have been eminent persons &amp; chiefe Actors in those Treasons; And except the Earle of <hi>Bristoll,</hi> the Earle of <hi>Cumberland,</hi> the Earle of <hi>New-Castle,</hi> the Earle <hi>Rivers,</hi> Secretary <hi>Nicho<g ref="char:EOLhyphen"/>las,</hi> Mr. <hi>Endimion Porter,</hi> Mr. <hi>Edward Hide,</hi> the Duke of <hi>Richmond,</hi> the Earle of <hi>Carnarvan;</hi> the Lord Viscount <hi>New<g ref="char:EOLhyphen"/>arke,</hi>
+                  <pb n="5" facs="tcp:112619:3"/> the Lord Viscount <hi>Faulkland</hi> being one of the princi<g ref="char:EOLhyphen"/>pall Secretaries of State to his Majesty.</item>
+               <item>FIfthly, you shall apprehend the persons of all these who stand impeached in Parlament, or have bin declared tray<g ref="char:EOLhyphen"/>tors by both or either house of <hi>Parliame<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> or other Delin<g ref="char:EOLhyphen"/>quents, and you shall send them unto the <hi>Parliament</hi> to re<g ref="char:EOLhyphen"/>ceive condigne punishment according to their offences.</item>
+               <item>SIxthly, you shall receive the Loanes, or Con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>butions of Money, Plate, or Horse from all his Majesties loving Subjects, which they shall be willing to make for the suport of the charge of the Army, and better discharge of the service of the Common-wealth; And you shall certifie all such summes of Money, and the value of such horses, that the persons thereupon may have the publike faith for pay<g ref="char:EOLhyphen"/>ment to be made unto them, as to others of his Majesties subjects upon the subscription of Mony, Plate, and Horse.</item>
+               <item>SEventhly, you shall carefully protect all his Majesties lo<g ref="char:EOLhyphen"/>ving Subjects from Rapine and violence by any of the Cavalliers, or other of his Majesties pretended Army, or by any of the souldiers of the Army which you command; and you shall cause the Armour and Goods of any person to be restored to them from whom they have beene unjustly taken.</item>
+               <item>EIghthly you shall observe such further Directions and Instructions as you from time to time receive from both Houses of Parliament.</item>
+            </list>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb n="4" facs="tcp:112619:4"/>
+            <head>A Declaration of the Lords and Commons Assembled in parliament.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon perusall of certaine Articles dated the 29. of Septem<g ref="char:EOLhyphen"/>ber 1642. betwixt the L. <hi>Fairefax</hi> and divers other well-affected to the peace of the Kingdome, and Mr. <hi>Bellasis</hi> and others, who have declared themselves in sundry Acti<g ref="char:EOLhyphen"/>ons, opposers of the proceedings of the Parliament, and furtherers of the war raised against them, and of many grievous pres<g ref="char:EOLhyphen"/>sures lately exercised upon the good Subjects, inhabitants of the County of Yorke, And being confident that if the L. <hi>Fairefax</hi> and the rest of the Gentlemen on his part had knowne by what Acts and designes this agreement was plotted on the other side, and how dangerous and mis<g ref="char:EOLhyphen"/>chievous it must needs be both in the effect, and in the consequence; their good intentions to the peace of that County, and of the Kingdome, are such, that they would never have consented to any thing so prejudiciall thereunto, as this seeming Neutrallity would be, by making that Coun<g ref="char:EOLhyphen"/>ty many waies serviceable to those ill Counsells, whereby his Majesty is incited against his subjects, and no way usefull to the Parliament, in protecting of them. Wherefore the Lords and Commons doe declare.</p>
+            <p>First that none of the parties to that agreement had any authority by any Act of theirs to bind that County to any such Neutrallity as is men<g ref="char:EOLhyphen"/>tioned in that agreement, it being a peculiar and proper power and priviledge of Parliament, where the whole body of the Kingdome is re<g ref="char:EOLhyphen"/>presented▪ to bind all or any part thereof.</p>
+            <p n="2">2 That it is very prejudiciall and dangerous to the whole Kingdome, that one County should withdraw themselves from the assistance of the rest, to which they are bound by Law, and by severall Orders and decla<g ref="char:EOLhyphen"/>rations of Parliament.</p>
+            <p n="3">3 That it is very derogatory to the power and authority of Parlia<g ref="char:EOLhyphen"/>ment, that any private men should take upon them to suspend the execu<g ref="char:EOLhyphen"/>tion of the Ordinance of the Militia, declared by both Houses to be ac<g ref="char:EOLhyphen"/>cording to Law, and very neessary at this time for the preservation of of the peace and safety of the Kingdome.</p>
+            <p n="4">4 That many things in that agreement are very unequall, contrary to the nature of a Neutrallity, (being much more advantagious to one side, then to the other) prejudiciall to the publike defence of the Kingdome,
+<pb n="5" facs="tcp:112619:4"/> undertaken by the Parliament and woud be a great impediment to that good agreement betwixt his Majesty and his subjects, which both hou<g ref="char:EOLhyphen"/>ses doe so earnestly desire and indeavour.</p>
+            <p>For these and other Reasons▪ we hold our selves bound in conscience, in performance of the severall Protestations that wee have made, to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<g ref="char:EOLhyphen"/>der all further proceedings upon that agreement, And therefore it is Or<g ref="char:EOLhyphen"/>dered by both Houses of Parliament, that no such Neutrallity be obser<g ref="char:EOLhyphen"/>ved in that County, which will advantage the Forces raised against the Parliament and no way benefit York-shire, but rather most dangerous to them by keeping that County without any defensive force, whereby it will be open to the King to bring back his Army at his pleasure, and to make that his winter quarter, to which the plenty of that County, and neerenesse of Newcastle for supplies by sea, are like to invite him; where<g ref="char:EOLhyphen"/>by it will become the seat of the War, and if this should not fall out, yet if the rest of the Kingdome be suppres'd, what hope can York-shire have but to be involved in the publike misery? And therefore in wisedome for themselves, and justice to the state, they ought not to withdraw them<g ref="char:EOLhyphen"/>selves from the common cause, but to joyne with the Parliament in the defence of the Religion and liberty of the whole Kingdome, and with them to labour by all good meanes to procure a generall Peace, and protection from the King for all his subjects, which both the Houses of Parliament have by many humble Petitions desired of his Majesty, but cannot yet obtaine: And if they should suffer any particular Counties to divide themselves from the rest of the Kingdome, it will be a meanes of bringing all to ruine and destruction; Wherefore it is further Decla<g ref="char:EOLhyphen"/>red, that neither the L. <hi>Fairefax,</hi> nor the Gentlemen of Yorke-shire, who are parties to those Articles, nor any other inhabitants of that County, are bound by any such agreement, but they are required to pursue their former Resolutions, of maintaining and assisting the Parlia<g ref="char:EOLhyphen"/>ment in defence of the common cause, according to their generall protestation, wherein they are bound with the rest of the Kingdome, and against the particular Protestation by themselves lately made; And ac<g ref="char:EOLhyphen"/>cording to such Orders and Commissions as they shall receive from both Houses of Parliament, From the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons appointed for the safety of the Kingdome, or from the Earle of Essex Lord Generall.</p>
+         </div>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:112619:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, <hi>Octob.</hi> 4. 1642.</date>
+               </dateline>
+            </opener>
+            <head>Resolved upon the Question by the Lords and Commons assembled in Parliament.</head>
+            <p>THat Master <hi>Hotham,</hi> and Sir <hi>Edward Rodes</hi> and other the Committees for raysing of money, plate, and Horse, for the defence of King and Kingdome in the County of Yorke; And such as they or any two of them shall nominate, sha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be Commissioners for the advancing and raysing of Monies, Horse, and Plate upon the propositions, and shall have power to appoint Commissaries to va<g ref="char:EOLhyphen"/>lue the Horse, and Treasurers to receive the Mo<g ref="char:EOLhyphen"/>nies and plate.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That Master <hi>Hotham</hi> and Sir <hi>Edward Rodes,</hi> shall have the like Instructions as other Counties, with this addition that they shall have power to seize and apprehend all Delinquents that are so Voted by the Parliament, and al such others as delinquents, as have or do shew themselves opposite and disobedient to the orders and proceedings of Parliament.</p>
+            <p>
+               <hi>Resolved upon the Question, &amp;c.</hi>
+               <lb/> That the 4 Article of the Lord Generalls instructi<g ref="char:EOLhyphen"/>ons, shall be extracted and sent to Mr. <hi>Hotham, &amp;c.</hi> with power to them to publish it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112619:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
